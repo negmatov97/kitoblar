@@ -1,0 +1,1 @@
+Bu folderda loyihaga tegishli bo'lgan til (language) fayllari saqlanadi. Masalan: uz.json, en.json

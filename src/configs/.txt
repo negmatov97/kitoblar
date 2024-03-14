@@ -1,0 +1,2 @@
+Bu folderda loyihaga tegishli bo'lgan configlar saqlanadi va istalgan joyda chaqirib ishlatiladi. 
+Masalan: { apiBaseUrl: "https://api.example.com"}

@@ -1,0 +1,1 @@
+Bu folderda loyihaga tegishli bo'lgan yordamchi fayllar bo'ladi. Masala: /images, /svg, /icons va hk

@@ -1,0 +1,1 @@
+Bu folderda loyihaga tegishli bo'lgan API request funktsiyalar yoziladi
